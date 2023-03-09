@@ -5,14 +5,5 @@ Attempt to create a EDK2 for GRACE 3118 3G(PMT3318_3GE_C).         <a href="http
 ### UEFI Status
 
 |Feature|Description|Working state|
-|:------|:----------|:-----------:|
+|:------|:-----------:|
 |Display||✅|
-|Touchscreen|Not Possible right now|❌|
-|Clocks||✅|
-|UFS||✅|
-|Buttons||✅|
-|USB|USB FN only|⚠️|
-|SD Card|No SD Card slot|❌|
-|ACPI|Still in Work|⚠️|
-|Mass Storage|No Mainline DTB|❌|
-|Slot Switch||✅|
