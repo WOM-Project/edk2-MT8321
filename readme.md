@@ -11,7 +11,7 @@ Attempt to create a EDK2 for GRACE 3118 3G(PMT3318_3GE_C).         <a href="http
 |eMMC|❔|
 
 
-## How to flash?
+## Files
 
 [Scatter and UEFI](https://github.com/hecker305/edk2-MT8321/releases/tag/flashtool)
 #
