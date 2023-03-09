@@ -9,3 +9,8 @@ Attempt to create a EDK2 for GRACE 3118 3G(PMT3318_3GE_C).         <a href="http
 |:------|:-----------:|
 |Display|❔|
 |eMMC|❔|
+
+
+## How to flash?
+
+**Scatter: (https://github.com/Azkali/)**
